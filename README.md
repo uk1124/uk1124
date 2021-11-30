@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👯 I’m looking to collaborate on: **Software Development related projects**
+- 👯 I’m looking to collaborate on **Software Development related projects**
 
-- 🤝 I’m currently focusing on: **DSA and Competitive Programming**
+- 🤝 I’m currently focusing on **DSA and Competitive Programming**
 
-- 📫 How to reach me: **utkarshshukla1124@gmail.com**
+- 📫 Reach me at: **utkarshshukla1124@gmail.com**
 
 - ⚡ Fun fact: **To understand recursion, you must first understand recursion!**
 
@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/uk1124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uk1124" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/uk1124" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="uk1124" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/uk1124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="uk1124" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/uk1124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uk1124" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/uk1124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="uk1124" height="30" width="40" /></a>
 </p>
