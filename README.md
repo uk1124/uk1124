@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Shukla</h1>
-<h3 align="center">A Pre-final year CSE Undergraduate student at VIT Vellore. I am passionate about Coding and an aspiring Software Engineer.</h3>
+<h1 align="center">Hi, It's Utkarsh Shukla</h1>
+<h3 align="center">I'm a Pre-final year CSE Undergrad at VIT Vellore. I am passionate about Coding and an aspiring Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uk1124&label=Profile%20views&color=0e75b6&style=flat" alt="uk1124" /> </p>
 
@@ -10,6 +10,8 @@
 - 🤝 I’m currently focusing on **DSA and Competitive Programming**
 
 - 📫 How to reach me **utkarshshukla1124@gmail.com**
+
+- ⚡ Fun fact **To understand recursion, you must first understand recursion!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
