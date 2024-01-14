@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's Utkarsh Shukla</h1>
-<h3 align="center">I'm a 2023 CSE graduate from VIT, Vellore. I am passionate about Coding and Software Engineering.</h3>
+<h3 align="center">I'm a 2023 CSE graduate from VIT, Vellore. With a strong background in Data structures and Algorithms, I have over 1 year of experience in various startups and Product-based companies where I have worked as a Software Developer on various technologies..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uk1124&label=Profile%20views&color=0e75b6&style=flat" alt="uk1124" /> </p>
 
