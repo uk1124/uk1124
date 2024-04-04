@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Software Development related projects**
 
-- 🤝 I’m currently focusing on **DSA and Front-end Development**
+- 🤝 I’m currently focusing on **DSA and Fullstack Development**
 
 - 📫 Reach me at: **utkarshshukla1124@gmail.com**
 
